@@ -23,20 +23,3 @@ To design and document works that bridge aesthetic systems, algorithmic structur
 📁 public/              → Export-ready files for deployment  
 
 
-🌐 Website (coming soon)
-
-Live portfolio site in development (likely built in Next.js, React, or Webflow export).
-Hosted via Vercel, GitHub Pages, or Netlify.
-
-🧠 Archdisciplinary Foundations
-
-This project aligns with key principles from:
-
-“De la abstracción geométrica a la morfogénesis digital” by Byron Villamil
-“Foundations of Archdisciplinarity” (ARC, 2024)
-Internal design research + pedagogy (George Brown College, 2025)
-✨ Author
-
-Oscar Yahir Bello Valenzo
-UX/UI Designer · Educator · Metaforma Architect
-LinkedIn | Portfolio | Email
